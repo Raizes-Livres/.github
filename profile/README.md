@@ -14,7 +14,7 @@ Este projeto foi feito durante o bootcamp Desenvolvedor Java Fullstack da Genera
 
 As causas, impactos e consequências do problema social escolhido são os seguintes:
 
-É compreendido que existe um problema relacionado à fome e à agricultura sustentável que muitas vezes passa despercebido pela sociedade em geral. Com o aumento do número de pessoas em situação de rua, a insegurança alimentar, a influência das grandes indústrias e a concentração do mercado, há um aumento na falta de acesso a alimentos saudáveis. Isso gera a necessidade de construir uma ponte entre a população vulnerável e as instituições que produzem alimentos de forma sustentável.
+É compreendido que existe um problema relacionado à fome e à agricultura sustentável que muitas vezes passa despercebido pela sociedade em geral. Com o aumento do número de pessoas em situação de rua, a insegurança alimentar, a influência das grandes indústrias e a concentração do mercado, há um aumento na falta de acesso a alimentos saudáveis, gerando a necessidade de construir uma ponte entre a população vulnerável e as instituições que produzem alimentos de forma sustentável.
 
 ### Solução Escolhida
 
