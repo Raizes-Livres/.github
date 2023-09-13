@@ -20,12 +20,10 @@ As causas, impactos e consequências do problema social escolhido são os seguin
 
 **E-Commerce**
 
-O motivo da escolha deste modelo de software é o seguinte:
-
 O modelo de software foi escolhido com base nas informações coletadas sobre o problema e seus possíveis impactos na sociedade atual. Visa proporcionar um melhor acesso e visibilidade à realidade das pessoas, abrangendo a diversidade, acessibilidade e inclusão social e econômica.
 
 ### Contribuição para a Solução do Problema Social
 
 A aplicação "Raízes Livres" irá contribuir para a solução do problema social escolhido pelo grupo da seguinte maneira:
 
-O objetivo é estabelecer uma comunicação entre os produtores agrícolas sustentáveis que estejam alinhados com nossa causa. Isso permitirá dar visibilidade à diversidade cultural do nosso país por meio de produtos derivados de povos originários e outros. A aplicação criará um espaço para que esse mercado tenha sua identidade e atue em parceria com instituições para criar um acesso melhor estruturado para pessoas em situação de vulnerabilidade social e econômica.
+O objetivo é estabelecer uma comunicação entre os produtores agrícolas sustentáveis que estejam alinhados com nossa causa, isso permitirá dar visibilidade à diversidade cultural do nosso país por meio de produtos derivados de povos originários e outros. A aplicação criará um espaço para que esse mercado tenha sua identidade e atue em parceria com instituições para criar um acesso melhor estruturado para pessoas em situação de vulnerabilidade social e econômica.
