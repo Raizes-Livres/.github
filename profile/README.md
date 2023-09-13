@@ -1,0 +1,31 @@
+# Projeto Integrador - Raízes Livres
+
+## Escopo do Projeto
+
+Este relatório foi solicitado pela Generation Brasil como parte do projeto final e aborda o escopo do Projeto Integrador com foco no tema "Fome zero e agricultura sustentável."
+
+### O Problema Social
+
+**Objetivo de Desenvolvimento Sustentável - 2: Fome zero e agricultura sustentável**
+- Erradicar a fome
+- Alcançar a segurança alimentar
+- Melhorar a nutrição
+- Promover a agricultura sustentável
+
+As causas, impactos e consequências do problema social escolhido são os seguintes:
+
+É compreendido que existe um problema relacionado à fome e à agricultura sustentável que muitas vezes passa despercebido pela sociedade em geral. Com o aumento do número de pessoas em situação de rua, a insegurança alimentar, a influência das grandes indústrias e a concentração do mercado, há um aumento na falta de acesso a alimentos saudáveis. Isso gera a necessidade de construir uma ponte entre a população vulnerável e as instituições que produzem alimentos de forma sustentável.
+
+### Solução Escolhida
+
+**E-Commerce**
+
+O motivo da escolha deste modelo de software é o seguinte:
+
+O modelo de software foi escolhido com base nas informações coletadas sobre o problema e seus possíveis impactos na sociedade atual. Visa proporcionar um melhor acesso e visibilidade à realidade das pessoas, abrangendo a diversidade, acessibilidade e inclusão social e econômica.
+
+### Contribuição para a Solução do Problema Social
+
+A aplicação "Raízes Livres" irá contribuir para a solução do problema social escolhido pelo grupo da seguinte maneira:
+
+O objetivo é estabelecer uma comunicação entre os produtores agrícolas sustentáveis que estejam alinhados com nossa causa. Isso permitirá dar visibilidade à diversidade cultural do nosso país por meio de produtos derivados de povos originários e outros. A aplicação criará um espaço para que esse mercado tenha sua identidade e atue em parceria com instituições para criar um acesso melhor estruturado para pessoas em situação de vulnerabilidade social e econômica.
