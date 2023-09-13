@@ -2,7 +2,7 @@
 
 ## Escopo do Projeto
 
-Este relatório foi solicitado pela Generation Brasil como parte do projeto final e aborda o escopo do Projeto Integrador com foco no tema "Fome zero e agricultura sustentável."
+Este projeto foi feito durante o bootcamp Desenvolvedor Java Fullstack da Generation Brasil como parte do projeto final que aborda a ODS 2 da ONU com foco no tema "Fome zero e agricultura sustentável."
 
 ### O Problema Social
 
