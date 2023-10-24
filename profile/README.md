@@ -35,6 +35,6 @@ O objetivo é estabelecer uma comunicação entre os produtores agrícolas suste
 ### Agradecimentos
 
 Agradecemos os instrutores Aimee Thompson, Luis Guerreiro, Thiago Faccipieri e Yuri Oliveira pela condução e orientação para a realização do projeto, sem vocês nada disso seria possível.
-Agradcimentos a Generation Brasil pela oportunidade única de aprendizado e pelo contato com pessoas humanas e qualificadas.
+Agradecimentos a Generation Brasil pela oportunidade única de aprendizado e pelo contato com pessoas humanas e qualificadas.
 Por fim, agradecemos toda turma 66 pela jornada trilhada até aqui. 
 Muito obrigado.
